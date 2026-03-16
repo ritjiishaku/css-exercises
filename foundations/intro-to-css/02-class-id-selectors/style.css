@@ -1,1 +1,25 @@
 /* Add CSS Styling */
+
+/* All odd numbered element */
+.odd {
+    background-color: #ffb6c1;
+    font-family: verdana "DejaVu Sans", sans-serif;
+}
+
+/* Second element */
+#second {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+/* Third element extra style */
+.cooler {
+    font-size: 24px;
+}
+
+/* Fourth element*/
+#fourth {
+    background-color: rgb(169, 247, 221);
+    font-size: 24px;
+    font-weight: 600;
+}
